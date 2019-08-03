@@ -1,7 +1,7 @@
 # coinapp
 react native first application. coin and coin details test application
 
-# coinapp React Project
+# Coinapp React-Native Project
 
 Detail Screen & Home Screen
 <img src="https://github.com/falconsw/coinapp/blob/master/screenshots/detail.png"/>
