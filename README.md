@@ -3,10 +3,7 @@ react native first application. coin and coin details test application
 
 # coinapp React Project
 
-Home Screen
-<img src="https://github.com/falconsw/coinapp/blob/master/screenshots/home.png"/>
-
-Detail Screen
+Home Screen & Detail Screen
 <img src="https://github.com/falconsw/coinapp/blob/master/screenshots/detail.png"/>
 
 ## install
