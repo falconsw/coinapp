@@ -8,7 +8,7 @@ Detail Screen & Home Screen
 
 ## install
 ```bash
-git clone https://github.com/falconsw/preact-test.git <FOLDER_NAME>
+git clone https://github.com/falconsw/coinapp.git <FOLDER_NAME>
 ```
 
 ```bash 
